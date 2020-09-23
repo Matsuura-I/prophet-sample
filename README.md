@@ -1,6 +1,6 @@
 # prophet-sample
 
-###conda environment
+## conda environment
 conda update conda
 
 conda install libpython m2w64-toolchain -c msys2
