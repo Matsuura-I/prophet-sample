@@ -11,3 +11,6 @@ conda install matplotlib scipy pandas -c conda-forge
 conda install pystan -c conda-forge
 
 conda install fbprophet -c conda-forge
+
+conda install -c conda-forge ipywidgets
+jupyter nbextension enable --py widgetsnbextension
